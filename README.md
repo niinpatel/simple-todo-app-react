@@ -13,3 +13,4 @@ Features (Version 1.0.0)
 - Change task state to done via checkbox
 - Track pending tasks
 
+Deployed at https://todolist-react-n.herokuapp.com
